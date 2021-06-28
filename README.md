@@ -19,3 +19,7 @@
   1. Modulus of rgidity of wire 
   2. Periodic motion can be used to design Torsional Clock 
   3. Force tors pendul inserted in a dense liquid helps to determine viscousity and frictional force. 
+
+## Flywheel 
+* Inertia - Property of matter by the virtue of which it resists any change to it's state of motion or rest. 
+* Radius of Gyration - defined as a point which could have same MOI as of actual body if total mass of body is concentrated on it. 
