@@ -23,3 +23,5 @@
 ## Flywheel 
 * Inertia - Property of matter by the virtue of which it resists any change to it's state of motion or rest. 
 * Radius of Gyration - defined as a point which could have same MOI as of actual body if total mass of body is concentrated on it. 
+* MOI is min when axis of rotation passes through centre of mass
+* KE of flywheel is 1/2I*omega^2
