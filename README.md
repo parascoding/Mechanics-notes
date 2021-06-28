@@ -36,3 +36,7 @@
 * Diff b/w simple and compound pendulum - in simple centre of gravity and oscillation are same. In compound Centre of gravity and oscillation are different. 
 * Amplitude is kept small to minimize mechanical and resistive losses. 
 * The value of g is greater at poles and less at equator 
+
+## Katers 
+* Importance/Uses - In earlier days it is used to find accurate value of g and hence accurate value of time. But in todays world it only used for demonstration purposes. 
+* Reversible - because two knife edges and two adjustable masses are positioned on the so that time period of swing is almost same for both edge. 
