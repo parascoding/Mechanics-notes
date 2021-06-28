@@ -7,7 +7,10 @@
 * Torsional Pendulum - It is experimental setup where a rigid body is suspended by a wire to made to and fro motion, using wire as axis of rotation. 
 * Why amplittude is ketp small - Althoug in ideal case of SHM time period does not depend on Amplitude but as the amplitude increases the disc loses the property of SHM. 
 * Hooks law - Strain is directly proportional to strian within elastic limit. 
+* Elasticity is direclty prop to Impurity and iversely to temp
 * Elastic limit -  It is defined as the maximum stress that a material can withstand before the permanent deformation, after it Hook law is not applicable and material get permanent deformation. 
+* Elastic Fatigue - If any elastic substance is kept on a streched postion for very long time, it will not attain it's original shape once the force is withdrawn. 
+* Elsatic after effect = Substance take time to regain it's original shape from its streched postion. it very low Phoshphorus bronze spring. 
 * Poisson ratio - Ratio of lateral strain and longitudnal strain  (Generally ranges from -1 to 0.5) 
 * Youngs Modulus - Ratio of Normal Stress and longitudnal strain
 * Bulk Modulus - Ratio of normal stress to volumetric strain 
