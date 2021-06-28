@@ -27,3 +27,12 @@
 * KE of flywheel is 1/2*I*omega^2
 * Flywheel - large wheel which has mass mostly concentrated on its rim they are attahced on axels of moving part of machines. 
 * Flywheel are used to maintain a steady motion by absorbing energy when machine tend to run faster and supplying energy when machine tend to slow down. 
+
+## Bar pendulum
+* Simple pendulum - single islated particle suspended using a weightless and inextensible string on a friction less suppport. Time period is 2*pi*root l by g
+* Periodic Motion - That repeats after some time like motion of sun moon motion of a steady wheel etc. 
+* Harmonic motion- particle oscillates symmetrically about the mean position like string of guitar.
+* SHM - when restoring force is proportional to negative of it;s displacement from mean pos 
+* Diff b/w simple and compound pendulum - in simple centre of gravity and oscillation are same. In compound Centre of gravity and oscillation are different. 
+* Amplitude is kept small to minimize mechanical and resistive losses. 
+* The value of g is greater at poles and less at equator 
