@@ -43,7 +43,7 @@
 
 
 ## Spirng Constant
-* Elasticity - The propery of an material b virtue of which it tends to regain it'soriginal form.
+* Elasticity - The propery of an material by the virtue of which it tends to regain its original form.
 * Spring const - force required to produce unit extension in a spring. 
 * Thick wire has lower spring const and it decreases with length and increases with curl density. 
 * Time period - 2 pi root m by k
