@@ -29,7 +29,7 @@
 * Flywheel are used to maintain a steady motion by absorbing energy when machine tend to run faster and supplying energy when machine tend to slow down. 
 
 ## Bar pendulum
-* Simple pendulum - single islated particle suspended using a weightless and inextensible string on a friction less suppport. Time period is 2*pi*root l by g
+* Simple pendulum - single islated particle suspended using a weightless and inextensible string on a friction less suppport. Time period is 2 pi root l by g
 * Periodic Motion - That repeats after some time like motion of sun moon motion of a steady wheel etc. 
 * Harmonic motion- particle oscillates symmetrically about the mean position like string of guitar.
 * SHM - when restoring force is proportional to negative of it;s displacement from mean pos 
@@ -40,3 +40,10 @@
 ## Katers 
 * Importance/Uses - In earlier days it is used to find accurate value of g and hence accurate value of time. But in todays world it only used for demonstration purposes. 
 * Reversible - because two knife edges and two adjustable masses are positioned on the so that time period of swing is almost same for both edge. 
+
+
+## Spirng Constant
+* Elasticity - The propery of an material b virtue of which it tends to regain it'soriginal form.
+* Spring const - force required to produce unit extension in a spring. 
+* Thick wire has lower spring const and it decreases with length and increases with curl density. 
+* Time period - 2 pi root m by k
