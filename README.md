@@ -25,7 +25,7 @@
 * Radius of Gyration - defined as a point which could have same MOI as of actual body if total mass of body is concentrated on it. 
 * MOI is min when axis of rotation passes through centre of mass
 * KE of flywheel is 1/2 I omega^2
-* Flywheel - large wheel which has mass mostly concentrated on its ri. They are attahced on axels of moving part of machines. 
+* Flywheel - large wheel which has mass mostly concentrated on its rim. They are attahced on axels of moving part of machines. 
 * Flywheel are used to maintain a steady motion by absorbing energy when machine tend to run faster and supplying energy when machine tend to slow down. 
 
 ## Bar pendulum
