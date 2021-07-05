@@ -30,6 +30,7 @@
 
 ## Bar pendulum
 * Simple pendulum - single islated particle suspended using a weightless and inextensible string on a friction less suppport. Time period is 2 pi root l by g
+* Compound pendulum - A compound pendulum has an extended mass, like a swinging bar, and is free to oscillate about a horizontal axis.
 * Periodic Motion - That repeats after some time like motion of sun moon motion of a steady wheel etc. 
 * Harmonic motion- particle oscillates symmetrically about the mean position like string of guitar.
 * SHM - when restoring force is proportional to negative of it;s displacement from mean pos 
