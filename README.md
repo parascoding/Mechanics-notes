@@ -7,6 +7,7 @@
 * Torsional Pendulum - It is experimental setup where a rigid body is suspended by a wire to made to and fro motion, using wire as axis of rotation. 
 * Why amplittude is ketp small - Althoug in ideal case of SHM time period does not depend on Amplitude but as the amplitude increases the disc loses the property of SHM. 
 * Hooks law - Strain is directly proportional to strian within elastic limit. 
+* Elasticity - The propery of an material by the virtue of which it tends to regain its original form.
 * Elasticity is direclty prop to Impurity and iversely to temp
 * Elastic limit -  It is defined as the maximum stress that a material can withstand before the permanent deformation, after it Hook law is not applicable and material get permanent deformation. 
 * Elastic Fatigue - If any elastic substance is kept on a streched postion for very long time, it will not attain it's original shape once the force is withdrawn. 
