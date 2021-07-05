@@ -34,6 +34,8 @@
 * Harmonic motion- particle oscillates symmetrically about the mean position like string of guitar.
 * SHM - when restoring force is proportional to negative of it;s displacement from mean pos 
 * Diff b/w simple and compound pendulum - in simple centre of gravity and oscillation are same. In compound Centre of gravity and oscillation are different. 
+* Center of oscilaation - Center of oscillation, the point on the suspension line of a compound pendulum where, if the entire mass of the pendulum were concentrated there, the oscillations would have the same duration as previously.
+* 
 * Amplitude is kept small to minimize mechanical and resistive losses. 
 * The value of g is greater at poles and less at equator 
 
